@@ -1,0 +1,17 @@
+# Hugo build artifacts
+public/
+resources/_gen/
+.hugo_build.lock
+package.hugo.json
+package.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

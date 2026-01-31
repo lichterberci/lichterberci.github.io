@@ -1,0 +1,12 @@
+languageCode = "hu"
+languageName = "Magyar"
+languageDirection = "ltr"
+weight = 1
+
+title = "BME VIK Mérnökinformatikus képzés"
+
+[params]
+  dateFormat = "2006. január 2."
+
+[params.author]
+  name = "Lichter Bertalan"
